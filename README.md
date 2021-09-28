@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Four card feature section](https://deepak539.github.io/Four-card-feature-section/)
 - Frontend Mentor - [@deepak539](https://www.frontendmentor.io/profile/deepak539)
 
 
